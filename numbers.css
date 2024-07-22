@@ -1,0 +1,12 @@
+.natural{text-align: center;
+        background-color: rgb(233, 233, 113);}
+.whole{text-align: center;
+        background-color: pink;}
+.rational{text-align: center;
+background-color: rgb(165, 239, 239);}
+.integers{text-align: center;
+          background-color: rgb(185, 245, 184);}
+.irrational{text-align: center;
+            background-color: rgb(244, 172, 131);}
+p{font-size: 20px;
+  font-weight: 500;}
